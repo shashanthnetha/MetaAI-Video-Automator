@@ -364,7 +364,7 @@ Users are responsible for complying with the terms of service of any platforms t
 
 B.Tech Student | Full Stack & AI Enthusiast
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/shashanthnetha
 
 ---
 
